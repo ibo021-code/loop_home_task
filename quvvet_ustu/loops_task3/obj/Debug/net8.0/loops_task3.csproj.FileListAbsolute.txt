@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\loops_task3\loops_task3\bin\Debug\net8.0\loops_task3.exe
+C:\Users\memme\source\repos\loops_task3\loops_task3\bin\Debug\net8.0\loops_task3.deps.json
+C:\Users\memme\source\repos\loops_task3\loops_task3\bin\Debug\net8.0\loops_task3.runtimeconfig.json
+C:\Users\memme\source\repos\loops_task3\loops_task3\bin\Debug\net8.0\loops_task3.dll
+C:\Users\memme\source\repos\loops_task3\loops_task3\bin\Debug\net8.0\loops_task3.pdb
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.AssemblyInfo.cs
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.sourcelink.json
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.dll
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\refint\loops_task3.dll
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.pdb
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\loops_task3.genruntimeconfig.cache
+C:\Users\memme\source\repos\loops_task3\loops_task3\obj\Debug\net8.0\ref\loops_task3.dll
