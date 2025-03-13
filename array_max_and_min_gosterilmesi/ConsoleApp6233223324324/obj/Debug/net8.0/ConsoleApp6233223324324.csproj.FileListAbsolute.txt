@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\bin\Debug\net8.0\ConsoleApp6233223324324.exe
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\bin\Debug\net8.0\ConsoleApp6233223324324.deps.json
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\bin\Debug\net8.0\ConsoleApp6233223324324.runtimeconfig.json
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\bin\Debug\net8.0\ConsoleApp6233223324324.dll
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\bin\Debug\net8.0\ConsoleApp6233223324324.pdb
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.AssemblyInfo.cs
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.sourcelink.json
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.dll
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\refint\ConsoleApp6233223324324.dll
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.pdb
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ConsoleApp6233223324324.genruntimeconfig.cache
+C:\Users\memme\source\repos\ConsoleApp6233223324324\ConsoleApp6233223324324\obj\Debug\net8.0\ref\ConsoleApp6233223324324.dll

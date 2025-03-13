@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\bin\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.exe
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\bin\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.deps.json
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\bin\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.runtimeconfig.json
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\bin\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.dll
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\bin\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.pdb
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.AssemblyInfo.cs
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.sourcelink.json
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.dll
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\refint\ConsoleApp6ededin murekkeb olmasi.dll
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.pdb
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ConsoleApp6ededin murekkeb olmasi.genruntimeconfig.cache
+C:\Users\memme\source\repos\ConsoleApp6ededin murekkeb olmasi\ConsoleApp6ededin murekkeb olmasi\obj\Debug\net8.0\ref\ConsoleApp6ededin murekkeb olmasi.dll
